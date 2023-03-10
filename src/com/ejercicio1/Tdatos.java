@@ -2,7 +2,7 @@ package com.ejercicio1;
 
 public class Tdatos {
     public static void main(String[] args) {
-
+        
 
         int velocidad = 90;
         System.out.println(velocidad);
